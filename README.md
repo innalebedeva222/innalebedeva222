@@ -7,9 +7,12 @@
 -  ⚜️ Good hands-on experience on test management and bug tracking tool JIRA.
 -  📑 Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix.
 -  🍎 Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.
--  - :mailbox:How to find me:<div id="badges"> 
+-  :mailbox:How to find me:<div id="badges"> https://www.linkedin.com/in/innalebedeva/
  
- ![sentiment-870x450]([https://user-images.githubusercontent.com/106053124/171986413-92db32fa-3bb6-417e-a4de-a7633142704a.jpeg]
+ <img src="https://img.freepik.com/premium-photo/young-woman-working-computer-lavender-field_175086-1147.jpg?w=900"/>
+ </a>
+ 
+ 
  #### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
@@ -25,9 +28,3 @@
  <a href="https://www.jetbrains.com/idea/">
   <img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/pycharm_icon.svg" width="40" height="40"  alt="PyCharm"/>
 </a>
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000" height="200"/>
-  </div>
