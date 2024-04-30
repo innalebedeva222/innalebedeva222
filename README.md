@@ -7,7 +7,7 @@
 -  ⚜️ Good hands-on experience on test management and bug tracking tool JIRA.
 -  📑 Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix.
 -  🍎 Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.
--  :mailbox:How to find me:<div id="badges"> https://www.linkedin.com/in/innalebedeva/
+-  - 📫 My LinkedIn Account: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/innalebedeva/)
  
  <img src="https://img.freepik.com/premium-photo/young-woman-working-computer-lavender-field_175086-1147.jpg?w=900"/>
  </a>
